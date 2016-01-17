@@ -1,0 +1,25 @@
+{
+  "name": "id8",
+  "version": "1.0.0",
+  "description": "id8 helps you create ideas in a group.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anishbasu/id8.git"
+  },
+  "keywords": [
+    "ideate",
+    "idea",
+    "creation",
+    "hackathons"
+  ],
+  "author": "Anish Basu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anishbasu/id8/issues"
+  },
+  "homepage": "https://github.com/anishbasu/id8#readme"
+}
